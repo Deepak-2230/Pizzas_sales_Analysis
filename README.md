@@ -1,6 +1,7 @@
 # Pizzas_sales_Analysis
-##MYSQL Project
-Dataset used for educational and analysis purposes
+# MYSQL Project
+
+ Dataset used for educational and analysis purposes
 
 # Help me understand how to use this correctly in both Excel and MySQL
 
